@@ -2,6 +2,7 @@
 using calorietraker.Model;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace calorietraker.Controllers
 {
