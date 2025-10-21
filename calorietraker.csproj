@@ -6,4 +6,10 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Model\" />
+    <Folder Include="Controllers\" />
+    <Folder Include="Context\" />
+  </ItemGroup>
+
 </Project>
